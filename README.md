@@ -7,11 +7,11 @@ Apr 05, 2022
 Version Control 
 
 ### Description
-Describe what your project is about and what it does
+The project is about interaction between local repository and remote repository
 
 ### Files used
-Include the files used
+Data files from bikeshare project (Python)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+N/A
 

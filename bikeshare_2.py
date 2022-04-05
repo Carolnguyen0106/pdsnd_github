@@ -106,10 +106,10 @@ def user_stats(df):
     start_time = time.time()
 
     # Display counts of user types
-
+    # Display total of users
 
     # Display counts of gender
-
+     
 
     # Display earliest, most recent, and most common year of birth
 
