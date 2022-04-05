@@ -29,7 +29,7 @@ def get_filters():
     return city, month, day
 
 
-def load_data(city, month, day):
+def date_filter(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
 
@@ -57,27 +57,11 @@ def time_stats(df):
     # display the most common day of week
 
 
+    # display the most common end hour
+
     # display the most common start hour
-
-
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-
-
-    print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
-
-
-def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
-
-    print('\nCalculating Trip Duration...\n')
-    start_time = time.time()
-
-    # display total travel time
-
-
-    # display mean travel time
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
