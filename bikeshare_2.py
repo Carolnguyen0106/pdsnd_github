@@ -57,9 +57,9 @@ def time_stats(df):
     # display the most common day of week
 
 
+    # display the most common end hour
+
     # display the most common start hour
-
-
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
